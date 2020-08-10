@@ -1,12 +1,20 @@
-<table align="center">
-    <tr valign="top">
-      <td valign="middle" border="none">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&layout=compact&hide=html" alt="cornayy" />
-      </td>
-      <td valign="middle" border="none">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true" alt="cornayy" />
-      </td>
-  </tr>
+<table border="1" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <table align="center">
+                <tr valign="top">
+                  <td valign="middle" border="none">
+                    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&layout=compact&hide=html" alt="cornayy" />
+                  </td>
+                  <td valign="middle" border="none">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true" alt="cornayy" />
+                  </td>
+              </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
 
 ###     Hi 👋
 
