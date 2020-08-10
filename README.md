@@ -1,7 +1,7 @@
-<table border="1" cellspacing="0" cellpadding="0">
+<table border="1" align="center">
     <tr>
         <td>
-            <table align="center">
+            <table border="">
                 <tr valign="top">
                   <td valign="middle" border="none">
                     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&layout=compact&hide=html" alt="cornayy" />
