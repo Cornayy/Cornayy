@@ -1,4 +1,3 @@
-
 <table align="center">
     <tr valign="top">
       <td>
@@ -10,7 +9,6 @@
   </tr>
 
 ### Hi 👋
-<h3 align="center">I'm a passionate full-stack developer from the Netherlands.</h3>
 
 - 🔭 I’m currently working on **dofus-api**
 - 🌱 I’m currently learning **TypeScript, Angular, React and GraphQL**
