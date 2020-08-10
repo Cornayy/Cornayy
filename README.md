@@ -1,9 +1,9 @@
 <table align="center">
     <tr valign="top">
-      <td valign="center">
+      <td valign="middle">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&layout=compact&hide=html" alt="cornayy" />
       </td>
-      <td valign="center">
+      <td valign="middle">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true" alt="cornayy" />
       </td>
   </tr>
