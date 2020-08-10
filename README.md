@@ -1,4 +1,4 @@
-<table align="center">
+<table border="0" align="center">
     <tr valign="top">
       <td valign="middle" style='border:none;'>
           <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&layout=compact&hide=html" alt="cornayy" />
