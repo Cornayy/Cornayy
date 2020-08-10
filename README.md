@@ -15,5 +15,5 @@
 - 🔭 I’m currently working on **dofus-api**
 - 🌱 I’m currently learning **TypeScript, Angular, React and GraphQL**
 - 💬 Ask me about **anything**
-- 📫 How to reach me ***corneeggebeen@outlook.com***
+- 📫 How to reach me (email)[corneeggebeen@outlook.com]
 - ⚡ Fun fact **cats > dogs**
