@@ -11,5 +11,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&layout=compact&hide=html" alt="cornayy" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true" alt="cornayy" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true" alt="cornayy" />
 
