@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact" alt="cornayy" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="cornayy" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact" alt="cornayy" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="cornayy" />
 
 
 ###     Hi 👋
