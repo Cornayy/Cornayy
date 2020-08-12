@@ -2,6 +2,11 @@ Languages             |  Statistics
 :-------------------------:|:-------------------------:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact)  |  ![](https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="100" /> 
+</p>
+
 ###     Hi 👋
 
 - 🔭 I’m currently working on **dofus-api**
