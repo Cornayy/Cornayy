@@ -3,8 +3,8 @@ Languages             |  Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact)  |  ![](https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="300" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cornayy&show_icons=true&bg_color=40,E0624B,733e77&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" /> 
 </p>
 
 ###     Hi 👋
