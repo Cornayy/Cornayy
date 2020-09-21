@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi there 👋
 
 - 🌱 I’m currently learning **C++, React and GraphQL**
 - 💬 Ask me about **anything**
